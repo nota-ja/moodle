@@ -1,0 +1,5 @@
+applications:
+- name: moodle
+  buildpack: php_buildpack
+  services:
+  - pg-moodle
