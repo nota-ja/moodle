@@ -1,0 +1,4 @@
+{
+    "PHP_EXTENSIONS": ["iconv", "mbstring", "curl", "openssl", "tokenizer", "xmlrpc", "soap", "ctype", "zip", "gd", "simplexml", "spl", "pcre", "dom", "xml", "intl", "json", "pgsql", "zlib"],
+    "LIBDIR": "moodledata"
+}
